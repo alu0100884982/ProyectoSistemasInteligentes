@@ -2,4 +2,4 @@
 ## Miembros
 * Javier Ramos Fernández
 * Victoria Quintana Martí
-* Ángel Hamilton López
+* Ángel A. Hamilton López
